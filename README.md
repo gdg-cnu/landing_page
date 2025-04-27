@@ -74,16 +74,25 @@ function example() {
 GitHub 전용 강조 및 정보 박스
 Note 이것은 정보 노트입니다.
 
-> **Note**
-> 이것은 정보 노트입니다.
-Warning 이것은 경고 메시지입니다.
+노트 (Note)
+> [!NOTE]  
+> 참고할 정보가 있습니다.
 
-> **Warning**
-> 이것은 경고 메시지입니다.
-Important 이것은 중요 정보입니다.
+팁 (Tip)
+> [!TIP]  
+> 유용한 팁을 알려드립니다.
 
-> **Important**
-> 이것은 중요 정보입니다.
+중요 (Important)
+> [!IMPORTANT]  
+> 중요한 정보입니다.
+
+주의 (Warning)
+> [!WARNING]  
+> 주의해야 할 사항입니다.
+
+주의 (Caution)
+> [!CAUTION]  
+> 조심해야 할 사항입니다.
 
 **접을 수 있는 섹션 (Details)**
 <details>
